@@ -12,11 +12,17 @@ https://en.wikipedia.org/wiki/Self-organizing_map
 I have designed 6 process for SOM. There are som( main process), initialization, competitive_process, cooperative_process, adaptive_process, mapping_process.
 
 Som: main process for som, call each process function one by one in each iteration.
+-----
 Initialization: For initializing input variable and parameters
+-----
 Competitive_process: Obtain the winning neuron of each sample(input)
+-----
 Cooperative_process: Calculate distance between winning neuron and each neuron and topological neighborhood function 
+-----
 Adaptive_process: Calculate change of weight and adjust weight
+-----
 Mapping_process: Show the context map after all iteration. step 1, find the neuron of strongest responses sample. step 2, fill the unoccupied neuron
+-----
 
 ## Parameters of my code
 sig0 = 5; 
