@@ -43,7 +43,7 @@ Author: key
 
 ## Screenshots
 
-![scr01](https://github.com/tavik000/Self_Organizing_Map/raw/master/Screenshots/scr01.jpg)
+![scr01](https://github.com/tavik000/Self_Organizing_Map/raw/master/Screenshots/scr01.png)
 
 
 
